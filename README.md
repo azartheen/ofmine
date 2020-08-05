@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+ Hey Buddy! 👋 I'm Azartheen 👨‍💻
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Curitiba, Brazil.
+  A software developer,mobile app(IOS && ANDROID),web app from india
 </p>
 
 
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/alexandresanlim/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://instagram.com/azartheen_s/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -45,7 +45,7 @@
 
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> 
 </p>
 
 <!--
