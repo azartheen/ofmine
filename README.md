@@ -28,9 +28,12 @@
 <img src="https://img.shields.io/badge/xamarin%20forms%20🟢🟢🟢🟢🟢-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> 
 <img src="https://img.shields.io/badge/dotnet%20🟢🟢🟢🟢🟢-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> 
 <img src="https://img.shields.io/badge/html%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ofmine/github-readme-stats)
 
 -->
-
+- 🔭 I’m currently working on my project [Dynamic Web App](https://6footlobby.com)
+- 🌱 I’m currently learning GraphQL & Typescript
+- 💬 Ask me about anything [here](https://github.com/azartheen/ofmine/issues)
 
 
 <p align='center'>
@@ -46,6 +49,10 @@
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> 
+ <a href="https://github.com/azartheen/azartheen.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=azartheen&repo=azartheen.github.io&theme=radical" />
+</a>
 </p>
 
 <!--
